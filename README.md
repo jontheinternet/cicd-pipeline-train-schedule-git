@@ -1,5 +1,7 @@
 # cicd-pipeline-train-schedule-git
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/f031c42f-b034-48f9-8f2e-e7771e5a4879.svg?orgId=445175248269)](https://app.soluble.cloud/repos/details/github.com/jontheinternet/cicd-pipeline-train-schedule-git?orgId=445175248269)  
+
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
 
 ## Running the app
